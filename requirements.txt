@@ -38,7 +38,6 @@ nbclient==0.5.1
 nbconvert==6.0.7
 nbformat==5.0.8
 nest-asyncio==1.4.3
-nltk==3.5
 notebook==6.1.6
 parso==0.8.1
 pep8==1.7.1
